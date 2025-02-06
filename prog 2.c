@@ -9,7 +9,7 @@ int main()
   add = a + b;
   sub = a - b;
   mul = a * b;
-  div = (float)a / b; // Cast to float for correct division
+  div = (float)a / b;
   printf("Addition of two numbers is %d\n", add);
   printf("Subtraction of two numbers is %d\n", sub);
   printf("Multiplication of two numbers is %d\n", mul);
